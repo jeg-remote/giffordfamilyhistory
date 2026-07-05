@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jeg-remote.github.io/giffordfamilyhistory/sitemap.xml
